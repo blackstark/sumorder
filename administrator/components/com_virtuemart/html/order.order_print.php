@@ -1288,7 +1288,7 @@ else{
 		    }
 		    ?>        <?php
                       $dblog	 = new ps_DB;
-                      $q	 = "SELECT * FROM order_log WHERE order_id='$order_id'";
+                      $q	 = "SELECT * FROM order_log WHERE order_id='$order_id' ORDER BY id DESC";
                       $dblog->query($q);
                       $log_list = $dblog->loadObjectList();
 

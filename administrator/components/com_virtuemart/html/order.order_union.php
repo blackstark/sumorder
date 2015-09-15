@@ -50,7 +50,6 @@ product_quantity,product_item_price,product_final_price,order_item_currency,orde
             '" . $arr->mdate . "','" . $arr->product_attribute . "','" . $arr->product_preorder . "')";
         $db->setQuery($query);
         $db->Query($query);*/
-        vmGet($_REQUEST, 'product_id');
         $_REQUEST['product_id'] = $arr->product_id;
         $_REQUEST['add_product_validate'] = '1';
         $_REQUEST['product_quantity'] = $arr->product_quantity;

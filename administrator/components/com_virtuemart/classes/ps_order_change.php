@@ -752,6 +752,7 @@ class vm_ps_order_change
         require_once(CLASSPATH . 'ps_product.php');
 
         $ps_product_attribute = new ps_product_attribute();
+        $ps_product = new vm_ps_product();
 
         $product_id = vmGet($_REQUEST, 'product_id');
         $order_item_id = vmGet($_REQUEST, 'order_item_id');
