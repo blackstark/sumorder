@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd1a5d84-e729-410d-9a31-0a84d65c4640" name="Default" comment="" />
+    <ignored path="sumorder.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sumorder" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="order.order_print.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.35443" vertical-offset="21904" max-vertical-offset="22933">
+              <caret line="1318" column="30" selection-start-line="1318" selection-start-column="30" selection-end-line="1318" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+                <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+                <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+                <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+                <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+                <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+                <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+                <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+                <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+                <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+                <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+                <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+                <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://C:/wamp/www/stark/demo/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.5" vertical-offset="459" max-vertical-offset="1292">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
+              <folding>
+                <marker date="1437686482677" expanded="true" signature="645:663" placeholder="SELECT * FRO..auto..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps_order_change.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.9814816" vertical-offset="12512" max-vertical-offset="29529">
+              <caret line="755" column="8" selection-start-line="755" selection-start-column="8" selection-end-line="755" selection-end-column="53" />
+              <folding>
+                <marker date="1442326370226" expanded="true" signature="1647:1716" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="2869:2934" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="5553:5578" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="6457:6523" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="9083:9158" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="9970:10000" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="10368:10403" placeholder="DELETE FROM ..." />
+                <marker date="1442326370226" expanded="true" signature="11294:11329" placeholder="DELETE FROM ..." />
+                <marker date="1442326370226" expanded="true" signature="11484:11515" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="12067:12142" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="12895:12925" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="13993:14088" placeholder="INSERT INTO ..." />
+                <marker date="1442326370226" expanded="true" signature="15150:15190" placeholder="SELECT custo..#__..." />
+                <marker date="1442326370226" expanded="true" signature="16424:16693" placeholder="SELECT shipp..#__..." />
+                <marker date="1442326370226" expanded="true" signature="18437:18488" placeholder="SELECT order..#__..." />
+                <marker date="1442326370226" expanded="true" signature="18941:18982" placeholder="SELECT order..#__..." />
+                <marker date="1442326370226" expanded="true" signature="19130:19155" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="20119:20144" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="20874:20915" placeholder="SELECT order..#__..." />
+                <marker date="1442326370226" expanded="true" signature="21087:21112" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="22455:22497" placeholder="SELECT coupo..#__..." />
+                <marker date="1442326370226" expanded="true" signature="22638:22663" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="24688:24759" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="25260:25290" placeholder="DELETE FROM ..." />
+                <marker date="1442326370226" expanded="true" signature="30828:30973" placeholder="SELECT vendo..#__..." />
+                <marker date="1442326370226" expanded="true" signature="31409:31491" placeholder="SELECT user_..#__..." />
+                <marker date="1442326370226" expanded="true" signature="32028:32105" placeholder="SELECT shop_..#__..." />
+                <marker date="1442326370226" expanded="true" signature="33790:33822" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="34647:34677" placeholder="INSERT INTO ..." />
+                <marker date="1442326370226" expanded="true" signature="37550:37632" placeholder="SELECT user_..#__..." />
+                <marker date="1442326370226" expanded="true" signature="41883:41951" placeholder="SELECT vendo..#__..." />
+                <marker date="1442326370226" expanded="true" signature="42108:42243" placeholder="SELECT svx.s..#__..." />
+                <marker date="1442326370226" expanded="true" signature="42650:42729" placeholder="SELECT shopp..#__..." />
+                <marker date="1442326370226" expanded="true" signature="43114:43190" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="44382:44500" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="45470:45588" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="46639:46764" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="47652:47777" placeholder="SELECT produ..#__..." />
+                <marker date="1442326370226" expanded="true" signature="54329:54411" placeholder="SELECT user_..#__..." />
+                <marker date="1442326370226" expanded="true" signature="55440:55525" placeholder="SELECT state..#__..." />
+                <marker date="1442326370226" expanded="true" signature="55728:55794" placeholder="SELECT tax_r..#__..." />
+                <marker date="1442326370226" expanded="true" signature="56440:56495" placeholder="SELECT `tax_..." />
+                <marker date="1442326370226" expanded="true" signature="60923:60999" placeholder="SELECT COUNT..address_log..." />
+                <marker date="1442326370226" expanded="true" signature="61124:61263" placeholder="SELECT first..jos_vm_order_user_info..." />
+                <marker date="1442326370226" expanded="true" signature="61647:62202" placeholder="INSERT INTO ..." />
+                <marker date="1442326370226" expanded="true" signature="62287:62858" placeholder="UPDATE jos_v..." />
+                <marker date="1442326370226" expanded="true" signature="62959:63098" placeholder="SELECT first..jos_vm_order_user_info..." />
+                <marker date="1442326370226" expanded="true" signature="63450:64027" placeholder="INSERT INTO ..." />
+                <marker date="1442326370226" expanded="true" signature="64935:65011" placeholder="SELECT date_..jos_vm_orders..." />
+                <marker date="1442326370226" expanded="true" signature="65106:65289" placeholder="UPDATE jos_v..." />
+                <marker date="1442326370226" expanded="true" signature="65903:65991" placeholder="UPDATE jos_v..." />
+                <marker date="1442326370226" expanded="true" signature="66478:66552" placeholder="UPDATE jos_v..." />
+                <marker date="1442326370226" expanded="true" signature="67105:67194" placeholder="UPDATE jos_v..." />
+                <marker date="1442326370226" expanded="true" signature="67802:67837" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="68036:68072" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="68297:68333" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="68816:68844" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442326370226" expanded="true" signature="69295:69320" placeholder="UPDATE #__{v..." />
+                <marker date="1442326370226" expanded="true" signature="72636:72691" placeholder="SELECT * FRO..#__..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sc_trackingpost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/sc_trackingpost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.314815" vertical-offset="1515" max-vertical-offset="7021">
+              <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+              <folding>
+                <marker date="1442321375422" expanded="true" signature="3979:4447" placeholder="CREATE TABLE..IF..." />
+                <marker date="1442321375422" expanded="true" signature="4854:4913" placeholder="SELECT * FRO.._this__table WHERE..." />
+                <marker date="1442321375422" expanded="true" signature="5456:5468" placeholder="INSERT INTO ..." />
+                <marker date="1442321375422" expanded="true" signature="6474:6526" placeholder="SELECT vendo..#__..." />
+                <marker date="1442321375422" expanded="true" signature="6648:6769" placeholder="SELECT first..#__..." />
+                <marker date="1442321375422" expanded="true" signature="8587:8639" placeholder="SELECT vendo..#__..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps_order_change_html.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change_html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.351852" vertical-offset="7922" max-vertical-offset="13039">
+              <caret line="483" column="72" selection-start-line="483" selection-start-column="72" selection-end-line="483" selection-end-column="72" />
+              <folding>
+                <marker date="1442325873661" expanded="true" signature="1652:1761" placeholder="SELECT user_..#__..." />
+                <marker date="1442325873661" expanded="true" signature="3337:3464" placeholder="SELECT user_..#__..." />
+                <marker date="1442325873661" expanded="true" signature="4775:4840" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325873661" expanded="true" signature="5996:6061" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325873661" expanded="true" signature="6527:6769" placeholder="SELECT shipp..#__..." />
+                <marker date="1442325873661" expanded="true" signature="10746:10811" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325873661" expanded="true" signature="12076:12141" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325873661" expanded="true" signature="13414:13479" placeholder="SELECT * FRO..#__..." />
+                <marker date="1442325873661" expanded="true" signature="18244:18288" placeholder="SELECT produ..#__..." />
+                <marker date="1442325873661" expanded="true" signature="25807:25914" placeholder="SELECT produ..#__..." />
+                <marker date="1442325873661" expanded="true" signature="25979:26073" placeholder="SELECT produ..#__..." />
+                <marker date="1442325873661" expanded="true" signature="26200:26296" placeholder="SELECT produ..#__..." />
+                <marker date="1442325873661" expanded="true" signature="27028:27096" placeholder="SELECT produ..#__..." />
+                <marker date="1442325873661" expanded="true" signature="31503:31662" placeholder="SELECT payme..#__..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addform.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/tmpl/addform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.192308" vertical-offset="697" max-vertical-offset="1445">
+              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2899" max-vertical-offset="3672">
+              <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps_orderlog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_orderlog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1190">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <marker date="1442325878142" expanded="true" signature="781:1408" placeholder="CREATE TABLE..IF..." />
+                <marker date="1442325878142" expanded="true" signature="1851:2131" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.ajaxmaillist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="680">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <marker date="1442207146401" expanded="true" signature="269:422" placeholder="SELECT EXIST..." />
+                <marker date="1442207146401" expanded="true" signature="284:421" placeholder="SELECT 1 FRO..email_list..." />
+                <marker date="1442207146401" expanded="true" signature="557:691" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.order_union.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_union.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8396226" vertical-offset="380" max-vertical-offset="1190">
+              <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+              <folding>
+                <marker date="1442326953423" expanded="true" signature="773:853" placeholder="SELECT * FRO..jos_vm_order_item..." />
+                <marker date="1442326953423" expanded="true" signature="1047:1206" placeholder="SELECT order..jos_vm_order_item..." />
+                <marker date="1442326953423" expanded="true" signature="3278:3372" placeholder="UPDATE jos_v..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/buttons/button_union_orders.php" />
+        <option value="$PROJECT_DIR$/js/buttons/button_union_orders.js" />
+        <option value="$PROJECT_DIR$/components/com_virtuemart/themes/default/scripts.js" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.ajax_orderunion.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist2.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist3.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_change_shipping.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/sc_trackingpost.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/tmpl/addform.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change_html.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_orderlog.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change.php" />
+        <option value="$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js" />
+        <option value="$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_union.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="administrator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="administrator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="administrator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sc_trackingpost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="administrator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sc_trackingpost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmpl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sumorder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="administrator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com_virtuemart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sc_trackingpost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="providers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stark\PhpstormProjects\sumorder\administrator\components\com_virtuemart\html" />
+      <recent name="C:\Users\Stark\PhpstormProjects\sumorder\administrator\components\com_virtuemart" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="e5f968ed-3fe6-4c57-a7c8-8b742655fbd9" server_name="airsoft">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd1a5d84-e729-410d-9a31-0a84d65c4640" name="Default" comment="" />
+      <created>1441963938208</created>
+      <option name="number" value="Default" />
+      <updated>1441963938208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10054054" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21481876" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11940" max-vertical-offset="22440">
+          <caret line="714" column="26" selection-start-line="714" selection-start-column="26" selection-end-line="714" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="27197" max-vertical-offset="27880">
+          <caret line="1604" column="8" selection-start-line="1604" selection-start-column="8" selection-end-line="1604" selection-end-column="8" />
+          <folding>
+            <marker date="1442326370226" expanded="true" signature="1647:1716" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="2869:2934" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="5553:5578" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="6457:6523" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9083:9158" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9970:10000" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="10368:10403" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11294:11329" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11484:11515" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12067:12142" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12895:12925" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="13993:14088" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="15150:15190" placeholder="SELECT custo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="16424:16693" placeholder="SELECT shipp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18437:18488" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18941:18982" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="19130:19155" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20119:20144" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20874:20915" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="21087:21112" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="22455:22497" placeholder="SELECT coupo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="22638:22663" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="24688:24759" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="25260:25290" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="30828:30973" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="31409:31491" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="32028:32105" placeholder="SELECT shop_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="33790:33822" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="34647:34677" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="37550:37632" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="41883:41951" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42108:42243" placeholder="SELECT svx.s..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42650:42729" placeholder="SELECT shopp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="43114:43190" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="44382:44500" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="45470:45588" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="46639:46764" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="47652:47777" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="54329:54411" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55440:55525" placeholder="SELECT state..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55728:55794" placeholder="SELECT tax_r..#__..." />
+            <marker date="1442326370226" expanded="true" signature="56440:56495" placeholder="SELECT `tax_..." />
+            <marker date="1442326370226" expanded="true" signature="60923:60999" placeholder="SELECT COUNT..address_log..." />
+            <marker date="1442326370226" expanded="true" signature="61124:61263" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="61647:62202" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="62287:62858" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="62959:63098" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="63450:64027" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="64935:65011" placeholder="SELECT date_..jos_vm_orders..." />
+            <marker date="1442326370226" expanded="true" signature="65106:65289" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="65903:65991" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="66478:66552" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67105:67194" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67802:67837" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68036:68072" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68297:68333" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68816:68844" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="69295:69320" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="72636:72691" placeholder="SELECT * FRO..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11279" max-vertical-offset="19142">
+          <caret line="629" column="25" selection-start-line="629" selection-start-column="25" selection-end-line="629" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12937" max-vertical-offset="13039">
+          <caret line="761" column="0" selection-start-line="761" selection-start-column="0" selection-end-line="761" selection-end-column="0" />
+          <folding>
+            <marker date="1442325873661" expanded="true" signature="1652:1761" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="3337:3464" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="4775:4840" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="5996:6061" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="6527:6769" placeholder="SELECT shipp..#__..." />
+            <marker date="1442325873661" expanded="true" signature="10746:10811" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="12076:12141" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="13414:13479" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="18244:18288" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25807:25914" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25979:26073" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="26200:26296" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="27028:27096" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="31503:31662" placeholder="SELECT payme..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_product_attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3647" max-vertical-offset="23460">
+          <caret line="194" column="17" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="17" />
+          <folding>
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT attri..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="8857">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2921" max-vertical-offset="3672">
+          <caret line="206" column="69" selection-start-line="206" selection-start-column="69" selection-end-line="206" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_orderlog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4624">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1442325878142" expanded="true" signature="781:1408" placeholder="CREATE TABLE..IF..." />
+            <marker date="1442325878142" expanded="true" signature="1851:2131" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="680">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1442207146401" expanded="true" signature="269:422" placeholder="SELECT EXIST..." />
+            <marker date="1442207146401" expanded="true" signature="284:421" placeholder="SELECT 1 FRO..email_list..." />
+            <marker date="1442207146401" expanded="true" signature="557:691" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_union.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1275">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <marker date="1442326953423" expanded="true" signature="773:853" placeholder="SELECT * FRO..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="1047:1206" placeholder="SELECT order..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="3278:3372" placeholder="UPDATE jos_v..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7494" max-vertical-offset="22474">
+          <caret line="460" column="58" selection-start-line="460" selection-start-column="58" selection-end-line="460" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18235" max-vertical-offset="27880">
+          <caret line="729" column="27" selection-start-line="729" selection-start-column="27" selection-end-line="729" selection-end-column="27" />
+          <folding>
+            <marker date="1442326370226" expanded="true" signature="1647:1716" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="2869:2934" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="5553:5578" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="6457:6523" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9083:9158" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9970:10000" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="10368:10403" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11294:11329" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11484:11515" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12067:12142" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12895:12925" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="13993:14088" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="15150:15190" placeholder="SELECT custo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="16424:16693" placeholder="SELECT shipp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18437:18488" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18941:18982" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="19130:19155" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20119:20144" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20874:20915" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="21087:21112" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="22455:22497" placeholder="SELECT coupo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="22638:22663" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="24688:24759" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="25260:25290" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="30828:30973" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="31409:31491" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="32028:32105" placeholder="SELECT shop_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="33790:33822" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="34647:34677" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="37550:37632" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="41883:41951" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42108:42243" placeholder="SELECT svx.s..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42650:42729" placeholder="SELECT shopp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="43114:43190" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="44382:44500" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="45470:45588" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="46639:46764" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="47652:47777" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="54329:54411" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55440:55525" placeholder="SELECT state..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55728:55794" placeholder="SELECT tax_r..#__..." />
+            <marker date="1442326370226" expanded="true" signature="56440:56495" placeholder="SELECT `tax_..." />
+            <marker date="1442326370226" expanded="true" signature="60923:60999" placeholder="SELECT COUNT..address_log..." />
+            <marker date="1442326370226" expanded="true" signature="61124:61263" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="61647:62202" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="62287:62858" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="62959:63098" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="63450:64027" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="64935:65011" placeholder="SELECT date_..jos_vm_orders..." />
+            <marker date="1442326370226" expanded="true" signature="65106:65289" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="65903:65991" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="66478:66552" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67105:67194" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67802:67837" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68036:68072" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68297:68333" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68816:68844" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="69295:69320" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="72636:72691" placeholder="SELECT * FRO..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11279" max-vertical-offset="19142">
+          <caret line="629" column="25" selection-start-line="629" selection-start-column="25" selection-end-line="629" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12342" max-vertical-offset="13039">
+          <caret line="761" column="0" selection-start-line="761" selection-start-column="0" selection-end-line="761" selection-end-column="0" />
+          <folding>
+            <marker date="1442325873661" expanded="true" signature="1652:1761" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="3337:3464" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="4775:4840" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="5996:6061" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="6527:6769" placeholder="SELECT shipp..#__..." />
+            <marker date="1442325873661" expanded="true" signature="10746:10811" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="12076:12141" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="13414:13479" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="18244:18288" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25807:25914" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25979:26073" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="26200:26296" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="27028:27096" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="31503:31662" placeholder="SELECT payme..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_product_attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3647" max-vertical-offset="23460">
+          <caret line="194" column="17" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="17" />
+          <folding>
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT attri..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="8857">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3085" max-vertical-offset="3842">
+          <caret line="195" column="49" selection-start-line="195" selection-start-column="49" selection-end-line="195" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site_navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="680">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1442207146401" expanded="true" signature="269:422" placeholder="SELECT EXIST..." />
+            <marker date="1442207146401" expanded="true" signature="284:421" placeholder="SELECT 1 FRO..email_list..." />
+            <marker date="1442207146401" expanded="true" signature="557:691" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_union.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1442326953423" expanded="true" signature="773:853" placeholder="SELECT * FRO..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="1047:1206" placeholder="SELECT order..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="3278:3372" placeholder="UPDATE jos_v..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7512" max-vertical-offset="22423">
+          <caret line="468" column="32" selection-start-line="468" selection-start-column="32" selection-end-line="468" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8065" max-vertical-offset="8857">
+          <caret line="506" column="0" selection-start-line="506" selection-start-column="0" selection-end-line="512" selection-end-column="7" />
+          <folding>
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2829" max-vertical-offset="3740">
+          <caret line="202" column="25" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site_navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="680">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1442207146401" expanded="true" signature="269:422" placeholder="SELECT EXIST..." />
+            <marker date="1442207146401" expanded="true" signature="284:421" placeholder="SELECT 1 FRO..email_list..." />
+            <marker date="1442207146401" expanded="true" signature="557:691" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7529" max-vertical-offset="22457">
+          <caret line="465" column="55" selection-start-line="465" selection-start-column="42" selection-end-line="465" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site_navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7529" max-vertical-offset="22457">
+          <caret line="465" column="55" selection-start-line="465" selection-start-column="42" selection-end-line="465" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site_navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22236">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/site_navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11279" max-vertical-offset="19142">
+          <caret line="629" column="25" selection-start-line="629" selection-start-column="25" selection-end-line="629" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="8857">
+          <caret line="38" column="64" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1442205517752" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_product_attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-126.84615" vertical-offset="0" max-vertical-offset="23460">
+          <caret line="194" column="17" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="17" />
+          <folding>
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT attri..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+            <marker date="1441283711000" expanded="true" signature="-1:-1" placeholder="SELECT produ..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/providers/ae5000.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="786">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/providers/another.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="786">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/providers/edostavka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/providers/dellin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_change_shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.777778" vertical-offset="763" max-vertical-offset="2975">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+          <folding>
+            <marker date="1442319085858" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/sc_trackingpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.314815" vertical-offset="1515" max-vertical-offset="7021">
+          <caret line="106" column="38" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="38" />
+          <folding>
+            <marker date="1442321375422" expanded="true" signature="3979:4447" placeholder="CREATE TABLE..IF..." />
+            <marker date="1442321375422" expanded="true" signature="4854:4913" placeholder="SELECT * FRO.._this__table WHERE..." />
+            <marker date="1442321375422" expanded="true" signature="5456:5468" placeholder="INSERT INTO ..." />
+            <marker date="1442321375422" expanded="true" signature="6474:6526" placeholder="SELECT vendo..#__..." />
+            <marker date="1442321375422" expanded="true" signature="6648:6769" placeholder="SELECT first..#__..." />
+            <marker date="1442321375422" expanded="true" signature="8587:8639" placeholder="SELECT vendo..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/sc_trackingpost/tmpl/addform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.192308" vertical-offset="697" max-vertical-offset="1445">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp/www/stark/demo/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="459" max-vertical-offset="1292">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="68" selection-end-column="7" />
+          <folding>
+            <marker date="1437686482677" expanded="true" signature="645:663" placeholder="SELECT * FRO..auto..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.351852" vertical-offset="7922" max-vertical-offset="13039">
+          <caret line="483" column="72" selection-start-line="483" selection-start-column="72" selection-end-line="483" selection-end-column="72" />
+          <folding>
+            <marker date="1442325873661" expanded="true" signature="1652:1761" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="3337:3464" placeholder="SELECT user_..#__..." />
+            <marker date="1442325873661" expanded="true" signature="4775:4840" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="5996:6061" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="6527:6769" placeholder="SELECT shipp..#__..." />
+            <marker date="1442325873661" expanded="true" signature="10746:10811" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="12076:12141" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="13414:13479" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325873661" expanded="true" signature="18244:18288" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25807:25914" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="25979:26073" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="26200:26296" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="27028:27096" placeholder="SELECT produ..#__..." />
+            <marker date="1442325873661" expanded="true" signature="31503:31662" placeholder="SELECT payme..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_orderlog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <marker date="1442325878142" expanded="true" signature="781:1408" placeholder="CREATE TABLE..IF..." />
+            <marker date="1442325878142" expanded="true" signature="1851:2131" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/shop.ajaxmaillist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="680">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1442207146401" expanded="true" signature="269:422" placeholder="SELECT EXIST..." />
+            <marker date="1442207146401" expanded="true" signature="284:421" placeholder="SELECT 1 FRO..email_list..." />
+            <marker date="1442207146401" expanded="true" signature="557:691" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.35443" vertical-offset="21904" max-vertical-offset="22933">
+          <caret line="1318" column="30" selection-start-line="1318" selection-start-column="30" selection-end-line="1318" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#td#0;n#tr#1;n#table#1;n#!!top" expanded="true" />
+            <marker date="1442325967318" expanded="true" signature="1850:1905" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="6260:6421" placeholder="SELECT h.*, ..#__..." />
+            <marker date="1442325967318" expanded="true" signature="7330:7417" placeholder="SELECT payme..jos_vm_order_payment..." />
+            <marker date="1442325967318" expanded="true" signature="16916:17029" placeholder="SELECT * fro..#__..." />
+            <marker date="1442325967318" expanded="true" signature="22664:22820" placeholder="SELECT m.id,..." />
+            <marker date="1442325967318" expanded="true" signature="23791:23949" placeholder="SELECT b.id,..." />
+            <marker date="1442325967318" expanded="true" signature="25269:25377" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="36247:36640" placeholder="SELECT order..." />
+            <marker date="1442325967318" expanded="true" signature="37146:37309" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="37388:37585" placeholder="SELECT produ..." />
+            <marker date="1442325967318" expanded="true" signature="39082:39101" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="39256:39273" placeholder="..." />
+            <marker date="1442325967318" expanded="true" signature="42443:42547" placeholder="SELECT produ..jos_vm_product..." />
+            <marker date="1442325967318" expanded="true" signature="51583:51691" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442325967318" expanded="true" signature="57116:57132" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_virtuemart/themes/default/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2899" max-vertical-offset="3672">
+          <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/classes/ps_order_change.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.9814816" vertical-offset="12512" max-vertical-offset="29529">
+          <caret line="755" column="8" selection-start-line="755" selection-start-column="8" selection-end-line="755" selection-end-column="53" />
+          <folding>
+            <marker date="1442326370226" expanded="true" signature="1647:1716" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="2869:2934" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="5553:5578" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="6457:6523" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9083:9158" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="9970:10000" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="10368:10403" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11294:11329" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="11484:11515" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12067:12142" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="12895:12925" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="13993:14088" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="15150:15190" placeholder="SELECT custo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="16424:16693" placeholder="SELECT shipp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18437:18488" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="18941:18982" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="19130:19155" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20119:20144" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="20874:20915" placeholder="SELECT order..#__..." />
+            <marker date="1442326370226" expanded="true" signature="21087:21112" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="22455:22497" placeholder="SELECT coupo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="22638:22663" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="24688:24759" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="25260:25290" placeholder="DELETE FROM ..." />
+            <marker date="1442326370226" expanded="true" signature="30828:30973" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="31409:31491" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="32028:32105" placeholder="SELECT shop_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="33790:33822" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="34647:34677" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="37550:37632" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="41883:41951" placeholder="SELECT vendo..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42108:42243" placeholder="SELECT svx.s..#__..." />
+            <marker date="1442326370226" expanded="true" signature="42650:42729" placeholder="SELECT shopp..#__..." />
+            <marker date="1442326370226" expanded="true" signature="43114:43190" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="44382:44500" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="45470:45588" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="46639:46764" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="47652:47777" placeholder="SELECT produ..#__..." />
+            <marker date="1442326370226" expanded="true" signature="54329:54411" placeholder="SELECT user_..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55440:55525" placeholder="SELECT state..#__..." />
+            <marker date="1442326370226" expanded="true" signature="55728:55794" placeholder="SELECT tax_r..#__..." />
+            <marker date="1442326370226" expanded="true" signature="56440:56495" placeholder="SELECT `tax_..." />
+            <marker date="1442326370226" expanded="true" signature="60923:60999" placeholder="SELECT COUNT..address_log..." />
+            <marker date="1442326370226" expanded="true" signature="61124:61263" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="61647:62202" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="62287:62858" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="62959:63098" placeholder="SELECT first..jos_vm_order_user_info..." />
+            <marker date="1442326370226" expanded="true" signature="63450:64027" placeholder="INSERT INTO ..." />
+            <marker date="1442326370226" expanded="true" signature="64935:65011" placeholder="SELECT date_..jos_vm_orders..." />
+            <marker date="1442326370226" expanded="true" signature="65106:65289" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="65903:65991" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="66478:66552" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67105:67194" placeholder="UPDATE jos_v..." />
+            <marker date="1442326370226" expanded="true" signature="67802:67837" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68036:68072" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68297:68333" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="68816:68844" placeholder="SELECT * FRO..#__..." />
+            <marker date="1442326370226" expanded="true" signature="69295:69320" placeholder="UPDATE #__{v..." />
+            <marker date="1442326370226" expanded="true" signature="72636:72691" placeholder="SELECT * FRO..#__..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_virtuemart/html/order.order_union.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8396226" vertical-offset="380" max-vertical-offset="1190">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+          <folding>
+            <marker date="1442326953423" expanded="true" signature="773:853" placeholder="SELECT * FRO..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="1047:1206" placeholder="SELECT order..jos_vm_order_item..." />
+            <marker date="1442326953423" expanded="true" signature="3278:3372" placeholder="UPDATE jos_v..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
