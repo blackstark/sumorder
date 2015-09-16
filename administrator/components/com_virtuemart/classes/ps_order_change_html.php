@@ -702,7 +702,31 @@ class vm_ps_order_change_html {
 		 </form>
     <?php
 	}
-
+    /**************************************************************************
+     * name: html_change_order_union
+     * created by: stark
+     * description: add order
+     * parameters:
+     * returns: none
+     **************************************************************************/
+    function html_change_order_union() {
+        global $VM_LANG;
+        ?>
+        <form style="display: none" class="order_union"  method="post" action="<?php echo $_SERVER['PHP_SELF'] ?>">
+            Введите № заказа:
+            <input type="text" value="" size="7" name="add_order_id" />
+            <input type="image" title="<?php echo $VM_LANG->_('PHPSHOP_UPDATE') ?>"
+                   src="<?php echo VM_THEMEURL ?>images/edit_f2.gif" border="0"  alt="<?php echo $VM_LANG->_('PHPSHOP_UPDATE') ?>" /><br>
+            <label>Что делать с заказом?<input value="radio1"  name="action_child_order" type="radio" checked>Ничего <input value="radio2"  name="action_child_order" type="radio">Отменить </label><br>
+            <input type="hidden" value="1" name="order_union" />
+            <input type="hidden" name="page" value="order.order_print" />
+            <input type="hidden" name="option" value="com_virtuemart" />
+            <input type="hidden" name="add_product_validate" value="1" />
+            <input type="hidden" name="func" value="" />
+            <input type="hidden" name="order_id" value="<?php echo $this->order_id ?>" />
+        </form>
+    <?php
+    }
 	/**************************************************************************
 	* name: html_change_bill_to
 	* created by: kaltokri

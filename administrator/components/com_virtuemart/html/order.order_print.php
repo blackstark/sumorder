@@ -456,21 +456,11 @@ else{
 		    			  </td>
 		    		    </tr>
 		    		</table>
-                      <div class="form_add_order" style="float:right;font-size: 12px">
-                          <div class="button_add_order">
-                              <input style="width: 250px" type="button" class="button show-button" onclick="toggleOrderUnion()" name="button" value="Объединить заказы">
-                          </div>
-                          <div style="display: none" class="order_union">
-                              <label>Введите № заказа: <input type="text" id="label_add_child"></label><br>
-                              <label>Что делать с заказом?<input id="radio1"  name="action_child_order" type="radio" checked>Ничего <input id="radio2"  name="action_child_order" type="radio">Отменить </label><br>
-                              <button style="width: 48%" id="button_accept"  onclick="addOrderUnion()">Добавить</button>
-                              <button style="width: 48%" id="button_cancel"  onclick="toggleOrderUnion()">Отменить</button><br>
-                          </div>
-                          <input style="display: none;" id="order_id" value="<?php echo $order_id ?>">
-                       </div>
 
 		    		<a class="order_action_link" href="javascript:void window.open('/administrator/index.php?no_menu=1&pop=1&tmpl=component&option=com_virtuemart&page=order.order_sendmail_1&order_id=<?= $order_id; ?>&template=receipt_of_payment', 'win2', 'status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=1000,height=800,directories=no,location=no');">Оплата поступила</a><br>
 
+                    <input style="width: 153px;height: 35px;" type="button" class="order_action_link" onclick="toggleOrderUnion()" name="button" value="Объединить заказы">
+                    <?php $ps_order_change_html->html_change_order_union(); ?>
 		    		<div class="maillog">
 		    		    <br><br>
 		    		    <h2>Отправленные письма</h2>
@@ -1291,27 +1281,27 @@ else{
                       $q	 = "SELECT * FROM order_log WHERE order_id='$order_id' ORDER BY id DESC";
                       $dblog->query($q);
                       $log_list = $dblog->loadObjectList();
-
-                      ?>
-                      <table border="1">
+                      ?><br>
+                      <button style="width: 145px;" class="btn getallbuttons" onclick="toggleLogs();">Показать логи</button>
+                      <table style="display: none;" id="form_logs" class="adminlist" border="1">
                           <tr>
-                              <th>Категория события</th>
-                              <th>Наименование</th>
-                              <th>Старое значение</th>
-                              <th>Новое значение</th>
-                              <th>Идентификатор пользователя</th>
-                              <th>Время изменения</th>
+                              <th style="text-align: center;">Категория события</th>
+                              <th style="text-align: center;">Наименование</th>
+                              <th style="text-align: center;">Старое значение</th>
+                              <th style="text-align: center;">Новое значение</th>
+                              <th style="text-align: center;">Идентификатор пользователя</th>
+                              <th style="text-align: center;">Время изменения</th>
                           </tr>
                           <?php
                           foreach ($log_list as $arr) {
                               ?>
                               <tr>
-                                  <td width="15%"><?= $arr->category ?></td>
-                                  <td width="15%"><?= $arr->name ?></td>
-                                  <td width="15%"><?= $arr->prev_value ?></td>
-                                  <td width="15%"><?= $arr->cur_value ?></td>
-                                  <td width="3%"><?= $arr->user_id ?></td>
-                                  <td width="7%"><?= $arr->cdate ?></td>
+                                  <td width="15%" style="text-align: center;"><?= $arr->category ?></td>
+                                  <td width="15%" style="text-align: center;"><?= $arr->name ?></td>
+                                  <td width="15%" style="text-align: center;"><?= $arr->prev_value ?></td>
+                                  <td width="15%" style="text-align: center;"><?= $arr->cur_value ?></td>
+                                  <td width="3%" style="text-align: center;"><?= $arr->user_id ?></td>
+                                  <td width="7%" style="text-align: center;"><?= $arr->cdate ?></td>
                               </tr>
                           <?php
                           }

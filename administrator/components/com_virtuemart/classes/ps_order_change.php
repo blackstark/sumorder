@@ -361,8 +361,9 @@ class vm_ps_order_change
 
         $vmLogger->info($VM_LANG->_('PHPSHOP_ORDER_PRINT_CUSTOMER_NOTE') . $VM_LANG->_('PHPSHOP_ORDER_EDIT_SOMETHING_HAS_CHANGED'));
         $this->recalc_order($this->order_id);
-
-        $this->orderlog->saveLog($this->order_id, 'Изменение комментария покупателя', '', $prev_customer_note, $customer_note);
+        if($prev_customer_note!=$customer_note){
+            $this->orderlog->saveLog($this->order_id, 'Изменение комментария покупателя', '', $prev_customer_note, $customer_note);
+        }
     }
 
     /*     * ************************************************************************
@@ -456,8 +457,9 @@ class vm_ps_order_change
 
         $this->recalc_order($order_id);
         $this->reload_from_db = 1;
-
-        $this->orderlog->saveLog($this->order_id, 'Изменение стоимости доставки', '', $prev_shipping, $shipping);
+        if($prev_shipping!=$shipping){
+            $this->orderlog->saveLog($this->order_id, 'Изменение стоимости доставки', '', $prev_shipping, $shipping);
+        }
     }
 
     /*     * ************************************************************************
@@ -1687,7 +1689,33 @@ if (vmGet($_REQUEST, 'page') == 'order.order_print' && !empty($order_id)) {
         } else {
             $vmLogger->info($VM_LANG->_('PHPSHOP_ORDER_EDIT_QUANTITY_UPDATED'));
         }
-    elseif (vmGet($_REQUEST, 'add_product') != '')
+    elseif(vmGet($_REQUEST, 'order_union') != ''){
+        if(vmGet($_REQUEST, 'add_order_id')){
+            global $db;
+            $query = "SELECT * FROM jos_vm_order_item WHERE order_id = '" . vmGet($_REQUEST, 'add_order_id') . "'";
+            $db->setQuery($query);
+            $db->Query($query);
+            $order_list = $db->loadObjectList();
+            foreach($order_list as $arr){
+                $query = "SELECT  order_item_id, product_quantity FROM jos_vm_order_item WHERE product_id = '" . $arr->product_id . "' AND order_id = '" . vmGet($_REQUEST, 'order_id') . "'";
+                $db->setQuery($query);
+                $db->Query($query);
+                $current = $db->loadObject();
+                if ($current->product_quantity) {
+                    $ps_order_change->change_item_quantity(vmGet($_REQUEST, 'order_id'), $current->order_item_id, $current->product_quantity + $arr->product_quantity);
+                }else{
+                    $_REQUEST['product_id'] = $arr->product_id;
+                    $_REQUEST['product_quantity'] = $arr->product_quantity;
+                    $ps_order_change->add_product();
+                }
+            }
+            if(vmGet($_REQUEST, 'action_child_order')=='radio2'){
+                $query = "UPDATE jos_vm_order_item SET order_status='X' WHERE order_id = '" . vmGet($_REQUEST, 'add_order_id') . "'";
+                $db->setQuery($query);
+                $db->Query($query);
+            }
+        }
+    }elseif (vmGet($_REQUEST, 'add_product') != '')
         $ps_order_change->add_product();
 
     elseif (vmGet($_REQUEST, 'change_product_item_price') != '')

@@ -194,7 +194,16 @@ class sc_trackingpost {
      * @return type
      */
     function add($order_id, $provider, $tracknumber, $date = '', $city = '', $name = '') {
+      require_once(CLASSPATH . 'ps_orderlog.php');
+      $orderlog = new ps_orderlog();
 	  $tracking = $this->getTracking($order_id);
+
+      $dblog = new ps_DB;
+      $query = "SELECT provider FROM " . $this->_table;
+      $query.= ' WHERE order_id = ' . $order_id;
+      $dblog->query($query);
+
+      $prev_provider = $dblog->loadResult($query);
 	  if (!$tracking) {
 		$query = "INSERT INTO " . $this->_table;
 		$WHERE = '';
@@ -202,6 +211,7 @@ class sc_trackingpost {
 		$query = "UPDATE " . $this->_table;
 		$WHERE = ' WHERE order_id = ' . $order_id;
 	  }
+
 	  $query .= " SET order_id='" . $order_id . "', provider='" . $provider . "', tracknumber='" . $tracknumber . "', date='" . $date . "', city='" . $city . "', name='" . $name . "'";
 	  $query .= $WHERE;
 	  $ret	 = $this->db->setQuery($query);
@@ -210,6 +220,9 @@ class sc_trackingpost {
 		echo $this->db->stderr();
 		return false;
 	  }
+      if($provider!=$prev_provider){
+          $orderlog->saveLog($order_id, 'Изменение трекинга', '', $prev_provider, $provider);
+      }
 	  return $ret;
     }
 

@@ -120,6 +120,8 @@ class sc_change_shipping {
 
     function changeShipping($order_id, $r) {
 	  global $VM_LANG, $vmLogger;
+      require_once(CLASSPATH . 'ps_orderlog.php');
+      $orderlog = new ps_orderlog();
 
 	  $d			 = array();
 	  $ship_method_id	 = $r['shipping_rate_id'];
@@ -141,12 +143,19 @@ class sc_change_shipping {
 	  $d['order_shipping'] = $shipping_rate_id_ar[3];
 
 	  $db		 = new ps_DB;
+      $q = "SELECT ship_method_id FROM #__{vm}_orders WHERE order_id = '" . $order_id . "'";
+      $db->query($q);
+      $prev_ship_method_id	 = $db->loadResult();
+
 	  $db->buildQuery('UPDATE', '#__{vm}_orders', $d, ' WHERE order_id=' . $order_id);
 	  $result	 = $db->query();
 
 
 	  $ps_order_change = new ps_order_change($order_id);
 	  $ps_order_change->recalc_order($order_id);
+      if($prev_ship_method_id!=$ship_method_id){
+          $orderlog->saveLog($order_id, 'Изменение варианта доставки', '', $prev_ship_method_id, $ship_method_id);
+      }
     }
 
     function recalcorder($order_id, $r) {
